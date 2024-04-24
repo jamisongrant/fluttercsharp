@@ -1,0 +1,16 @@
+C:\Users\jgbat\repos\fluttercsharp\bin\Debug\net5.0\fluttercsharp.exe
+C:\Users\jgbat\repos\fluttercsharp\bin\Debug\net5.0\fluttercsharp.deps.json
+C:\Users\jgbat\repos\fluttercsharp\bin\Debug\net5.0\fluttercsharp.runtimeconfig.json
+C:\Users\jgbat\repos\fluttercsharp\bin\Debug\net5.0\fluttercsharp.runtimeconfig.dev.json
+C:\Users\jgbat\repos\fluttercsharp\bin\Debug\net5.0\fluttercsharp.dll
+C:\Users\jgbat\repos\fluttercsharp\bin\Debug\net5.0\ref\fluttercsharp.dll
+C:\Users\jgbat\repos\fluttercsharp\bin\Debug\net5.0\fluttercsharp.pdb
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.csproj.AssemblyReference.cache
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.AssemblyInfoInputs.cache
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.AssemblyInfo.cs
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.csproj.CoreCompileInputs.cache
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.dll
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\ref\fluttercsharp.dll
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.pdb
+C:\Users\jgbat\repos\fluttercsharp\obj\Debug\net5.0\fluttercsharp.genruntimeconfig.cache
