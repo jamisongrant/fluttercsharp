@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W/d8ztEq5NfPvONkaDTpzPumhV3VkBaIoxXovRwpiBAjDdsVVmyul8i0URM0zgU91n+Cjg2FhyxfHVVb1gAm0g==",
+  "dgSpecHash": "H/3gsJJ9yJE/E2jyJFkn7dXcQErnX36F18fLxStwraD9Nvt6AY/fRdrbHTMiJmGzg4KPaOn6BGB0D56+18YeFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jgbat\\repos\\fluttercsharp\\fluttercsharp.csproj",
+  "projectFilePath": "C:\\Users\\jgbat\\repos\\fluttercsharp\\csharp\\fluttercsharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
